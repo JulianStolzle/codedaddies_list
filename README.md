@@ -1,1 +1,1 @@
-# codedaddies_list
+# This is a Craigslist clone called Codedaddies List 
